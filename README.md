@@ -46,7 +46,6 @@ To run the Four Connect game with the Game Tree Player, follow these steps:
 The project directory contains the following files:
 
 - `FourConnect.py`: Implementation of the Four Connect game.
-- `GameTreePlayer.py`: Game Tree Player class with AI capabilities.
 - `testcase.csv`: Test cases for evaluating the Game Tree Player's performance.
 
 ## Test Cases
