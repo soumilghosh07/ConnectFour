@@ -32,11 +32,11 @@ To run the Four Connect game with the Game Tree Player, follow these steps:
 1. Ensure you have Python 3 installed on your system.
 2. Download or clone the repository to your local machine.
 3. Navigate to the project directory in your terminal.
-4. Run the `FourConnect.py` file using Python to start the game.
+4. Run the `ConnectFour.py` file using Python to start the game.
 
 ## How to Use
 
-1. Launch the game by running the `FourConnect.py` file.
+1. Launch the game by running the `ConnectFour.py` file.
 2. Follow the on-screen instructions to select the game mode (human vs. AI) and begin playing.
 3. Drop your colored discs into the grid and try to connect four of them in a row horizontally, vertically, or diagonally before your opponent does.
 4. If playing against the AI, observe its moves and plan your strategy accordingly to outsmart it and win the game.
@@ -45,7 +45,7 @@ To run the Four Connect game with the Game Tree Player, follow these steps:
 
 The project directory contains the following files:
 
-- `FourConnect.py`: Implementation of the Four Connect game.
+- `ConnectFour.py`: Implementation of the Four Connect game.
 - `testcase.csv`: Test cases for evaluating the Game Tree Player's performance.
 
 ## Test Cases
